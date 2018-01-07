@@ -14,7 +14,7 @@ mail address: dhpradeep25@gmail.com
 <code>
 username: admin
 
-password: admin1234
+password: user12345
 </code>
 
 'for user
